@@ -9,3 +9,6 @@ https://github.com/signup
 
 - Good source to acquire Github Skills:
 https://skills.github.com/#first-day-on-github 
+
+- Image:
+![Alt Text](/images/photo.jpg)
