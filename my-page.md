@@ -11,6 +11,5 @@ https://github.com/signup
 https://skills.github.com/#first-day-on-github 
 
 - Image:
-![Alt Text](/images/photo.jpg)
+![Alt Text](https://github.com/rahg0/gh-page-test/blob/main/images.jpg)
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
