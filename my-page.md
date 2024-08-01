@@ -10,6 +10,6 @@ https://github.com/signup
 - Good source to acquire Github Skills:
 https://skills.github.com/#first-day-on-github 
 
-- Image:
+- Image:\
 ![Alt Text](https://github.com/rahg0/gh-page-test/blob/main/images.jpg)
 
