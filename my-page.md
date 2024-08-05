@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=37s
 - Create a personal Github Account:
 https://github.com/signup
 
+This is normal text `    ` with extra spaces.
 - Good source to acquire Github Skills:
 https://skills.github.com/#first-day-on-github 
 
